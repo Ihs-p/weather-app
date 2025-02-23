@@ -1,8 +1,27 @@
-# React + Vite
+🌤️ Weather App<Br><Br>
+A simple React-based weather application that fetches real-time weather data using an API. Built with Vite, Tailwind CSS, and React for a fast and responsive UI.
+<Br><Br>
+🔗 Live Demo <a href="https://weather-app-alpha-cyan-45.vercel.app/" style="text-decoration:none">Weather App</a>
+<Br><Br><Br>
+🚀 Features<Br><Br>
+✅ Real-time Weather Data <Br>
+✅ City-Based Search<Br>
+✅ Minimal & Responsive UI<Br>
+✅ Fast Performance with Vite<Br>
+<Br><Br><Br>
+🛠️ Tech Stack<Br><Br>
+React (Frontend)<Br>
+Vite (Bundler)<Br>
+Tailwind CSS (Styling)<Br>
+Weather API (Data Fetching)<Br><Br><Br>
+📌 Setup & Run<Br><Br>
+1️⃣ Clone the repo:<Br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+git clone https://github.com/ihs-p/weather-app.git <Br><Br>
+cd weather-app<Br><Br>
+2️⃣ Install dependencies:<Br>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+npm install<Br><Br>
+3️⃣ Start the development server:<Br>
+<Br>
+npm run dev<Br>
